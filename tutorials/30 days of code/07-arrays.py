@@ -1,10 +1,10 @@
-'''
+"""
 Objective
 Today, we're learning about the Array data structure. Check out the Tutorial tab for learning materials and an instructional video!
 
 Task
 Given an array, , of  integers, print 's elements in reverse order as a single line of space-separated numbers.
-'''
+"""
 
 if __name__ == '__main__':
     n = int(input())

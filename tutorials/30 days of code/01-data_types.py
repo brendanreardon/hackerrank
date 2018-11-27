@@ -1,4 +1,4 @@
-'''
+"""
 Objective
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
@@ -11,7 +11,7 @@ Complete the code in the editor below. The variables , , and  are already declar
     1. Print the sum of  plus your int variable on a new line.
     2. Print the sum of  plus your double variable to a scale of one decimal place on a new line.
     3. Concatenate  with the string you read as input and print the result on a new line.
-'''
+"""
 
 i = 4
 d = 4.0
